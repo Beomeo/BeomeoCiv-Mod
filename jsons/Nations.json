@@ -23,7 +23,7 @@
         "uniques": [
         ],
         "cities": [
-            " "
+            ""
         ],
         "spyNames": [
         ]
@@ -42,8 +42,8 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want, puny one?",
         "tradeRequest": "Behold! For I am about to share the wealth of my empire!",
-        "outerColor": [70, 83, 150],
-        "innerColor": [184, 175, 118],
+        "outerColor": [0, 25, 97],
+        "innerColor": [74, 122, 74],
         "uniqueName": "The Cultural Center",
         "uniques": [
         ],
@@ -54,9 +54,9 @@
         ]
     },{
         "name": "The Federation of Gay", //유흥가, 
-        "leaderName": "공수권",
+        "leaderName": "SuKown Hannam",
         "adjective": ["The Federation's"],
-        "startBias": ["Avoid [Coast]"],
+        "startBias": ["Hill"],
         "preferredVictoryType": "Domination",
         "startIntroPart1": "Mighty Sargon the Great of Akkad, we prostrate ourselves before you! You are the Emperor of the Akkadians, the greatest people to ever arise along the Euphrates and Tigris rivers. From its founding around 2300 BCE, Akkad spread its dominion through a force like none of which the ancient world had ever seen, which marked, among other things, history's first standing army. Ranging from the Tarsus Mountsins to the Persian Gulf, the mighty Akkadian empire was a force to be reckoned with. Yet, you were much better than a mere warmonger, because your rule oversaw the flourishing of trade cross all of the Middle East, extending all the way to the cities of Greece. Although the curses of war and famine tore your kingdom apart after centuries of prosperity, Mesopotamia was once again transformed into a land of culture and color as the ever-growing wealth of Akkad heralded a time of peace in the forever restless realm.",
         "startIntroPart2": "Magnificent King, you who founded the first true empire, now the world once again is in turmoil, and your slumber must end. It is time to reclaim your birthright as the legitimate king of this brave new world. Will you teach this world the art of empire building, either by peace or force? Can you once again create a dominion that will look down on all others? Can you build a civilization that will stand the test of time?",
@@ -67,10 +67,14 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want, puny one?",
         "tradeRequest": "Behold! For I am about to share the wealth of my empire!",
-        "outerColor": [70, 83, 150],
-        "innerColor": [184, 175, 118],
+        "outerColor": [7, 9, 82],
+        "innerColor": [239, 77, 160],
         "uniqueName": "Place Full of Happiness",
         "uniques": [
+            "[+1 Happiness, +3 Science] per [5] population [in all cities]",
+            "[-25]% [Food] [in all cities]",
+            "[+50]% [Culture] from City-States",
+            "[10]% Food is carried over after population increases [in all cities]"
         ],
         "cities": [
             ""
